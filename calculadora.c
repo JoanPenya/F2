@@ -10,7 +10,7 @@ int main ()
 	printf("\nQUE OPERACION DESEAS REALIZAR AL USUARIO:");
 	printf("\n1) SUMA.");
 	printf("\n2) RESTAR.");
-	printf("\n3) MULTIPLICAR.");
+	printf("\n3) MULTIPLICACION.");
 	printf("\n4) DIVIDIR.");
 	printf("\n5) SALIR DE LA APPs.");
 	printf("\nESCOGE UNA DE LAS CUATRO OPCIONES: ");
