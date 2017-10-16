@@ -12,7 +12,7 @@ int main ()
 	printf("\n2) RESTAR.");
 	printf("\n3) MULTIPLICAR.");
 	printf("\n4) DIVIDIR.");
-	printf("\n5) SALIR.");
+	printf("\n5) SALIR DE LA APPs.");
 	printf("\nESCOGE UNA DE LAS CUATRO OPCIONES: ");
 	scanf("%d", &calculadora);
 
