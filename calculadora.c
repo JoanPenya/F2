@@ -7,7 +7,7 @@ int main ()
 	
 	printf("BIENVENIDOS A LA CALCULADORA BASICA!");
 	getch();
-	printf("\nQUE OPERACION DESEAS REALIZAR:");
+	printf("\nQUE OPERACION DESEAS REALIZAR AL USUARIO:");
 	printf("\n1) SUMA.");
 	printf("\n2) RESTAR.");
 	printf("\n3) MULTIPLICAR.");
